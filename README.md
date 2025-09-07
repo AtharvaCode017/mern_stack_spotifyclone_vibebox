@@ -1,4 +1,5 @@
 VibeBox 🎵 - A Spotify-like Music Streaming App
+
 VibeBox is a full-stack web application built with the MERN stack that allows users to search for, stream, and save their favorite music. It leverages the YouTube API as a free and vast source for its music library and persists user data using MongoDB.
 
 ## Features
